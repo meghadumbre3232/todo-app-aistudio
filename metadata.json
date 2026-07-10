@@ -1,0 +1,6 @@
+{
+  "name": "Synced Todo List",
+  "description": "A collaborative and real-time synchronized todo application that keeps tasks synced across all your devices using Firebase Firestore and Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
